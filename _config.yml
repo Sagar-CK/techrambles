@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: techrambles
-email: techrambles@gmail.com
+email: techramblesblog@gmail.com
 footer_text: "Created by Sagar and Manu."
 description: >- # this means to ignore newlines until "baseurl:"
   All things tech — ranging from Scratch to Gen AI.
