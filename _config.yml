@@ -20,7 +20,7 @@
 
 title: techrambles
 email: techrambles@gmail.com
-footer_text: "Reach out to us at:"
+footer_text: "Created by Sagar and Manu."
 description: >- # this means to ignore newlines until "baseurl:"
   All things tech — ranging from Scratch to Gen AI.
 baseurl: "" # the subpath of your site, e.g. /blog
