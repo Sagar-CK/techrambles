@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+livereload: true
+open_url: true
+
 title: techrambles
 email: techramblesblog@gmail.com
 footer_text: "Created by Sagar and Manu."

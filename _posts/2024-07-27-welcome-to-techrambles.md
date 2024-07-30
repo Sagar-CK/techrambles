@@ -4,26 +4,40 @@ title:  "Welcome to techrambles!"
 date:   2024-07-27 11:57:46 +0200
 categories: general
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Welcome to **techrambles**, a go-to source for insightful articles and updates in the world of technology. Founded by [Sagar Chethan Kumar](https://sagarspace.com) and [Manu Gautam](https://www.linkedin.com/in/manu-gautam-6b5064259/), our blog aims to provide readers with valuable content on a variety of tech-related topics 💭.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+ Above all we want our articles to be brief, informative, and transferrable (in the sense of knowledge) 🚀!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## About the Founders
 
-Jekyll also offers powerful support for code snippets:
+<div class="about-container">
+  <div class="about-item">
+    <img src="/assets/images/sagar.jpg" alt="Sagar Chethan Kumar">
+    <p><strong>Sagar Chethan Kumar</strong></p>
+    <p>Sagar is passionate about HCI, NLP, AI and general software development and loves to share his knowledge through writing. He has signficant experience in the tech industry and enjoys exploring new technologies and trends.</p>
+  </div>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+  <div class="about-item">
+    <img src="/assets/images/manu.jpg" alt="Manu Gautam">
+    <p><strong>Manu Gautam</strong></p>
+    <p>Manu is a tech enthusiast who loves innovative solutions and development practices. He's passionate about machine learning, AI and robotics and likes to keep updated about latest innovations. He enjoys writing and hopes to share engaging, informative content.</p>
+  </div>
+</div>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## What to Expect
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+At techrambles, you can look forward to:
+
+- **In-Depth Articles:** Detailed posts on a wide range of technical subjects, from programming languages to the latest in software development practices.
+- **Code Snippets:** Practical examples and snippets to help you understand and apply various coding techniques.
+- **Tech News:** Updates on the latest happenings in the tech world to keep you informed and ahead of the curve.
+
+
+We are excited to have you join us on this journey! Stay tuned for our upcoming posts and feel free to engage with us directly or at [techramblesblog@gmail.com](mailto:techramblesblog@gmail.com)!
+
+We'd love to hear about the topics that interest you and what you'd like to read next. Let us know!
+
+Happy reading!
+
+---  Sagar & Manu

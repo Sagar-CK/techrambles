@@ -19,3 +19,17 @@
 .about-item p {
     margin-top: 10px;
 }
+
+.basic-item {
+    text-align: center;
+    margin: 10px;
+}
+
+.basic-item img {
+    width: 550px;
+    height: auto;
+}
+
+.basic-item p {
+    margin-top: 10px;
+}
