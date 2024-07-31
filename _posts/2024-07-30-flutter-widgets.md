@@ -152,8 +152,8 @@ AlertDialog is often used for confirmation dialogs, error messages, or important
 - Supports custom widgets for complex dialogs.
 
 **Cons:**
-Interrupts the user flow and can be disruptive.
-Overuse can annoy users and lead to dismissal without reading.
+- Interrupts the user flow and can be disruptive.
+- Overuse can annoy users and lead to dismissal without reading.
 
 **Use Cases:**
 - Confirmation dialogs before performing irreversible actions, such as deleting an item.
