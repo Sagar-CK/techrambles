@@ -2,7 +2,7 @@
 layout: post
 title:  "Essential Flutter Widgets"
 date:   2024-07-30 11:57:46 +0200
-categories: ["tech", "flutter"]
+categories: dev
 ---
 
 Creating intricate and complex applications with Flutter can be tedious at times. However, [through the use of Flutter’s collection of visual, structural, platform, and interactive widgets](https://docs.flutter.dev/ui/widgets), this process can be expedited considerably.
