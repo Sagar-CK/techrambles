@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computational Intelligence (CI) — What is it?"
-date: 2024-07-30 11:57:46 +0200
+date: 2024-08-09 11:57:46 +0200
 categories: ai
 ---
 
