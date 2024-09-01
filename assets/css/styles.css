@@ -33,3 +33,18 @@
 .basic-item p {
     margin-top: 10px;
 }
+
+.free-item {
+    text-align: center;
+    margin: 10px;
+}
+
+.free-item img {
+    width: 1000px;
+    height: auto;
+}
+
+.free-item p {
+    margin-top: 10px;
+    text-align: center;
+}
